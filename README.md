@@ -1,4 +1,4 @@
-<!Doctype html>
+
 <html>
 <head>
  
@@ -38,6 +38,5 @@ Example.com<br>
 Box 564, Disneyland<br>
 USA </p>
 </strong></address>
-</style>
 </body>
 </html> 
